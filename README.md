@@ -2,7 +2,7 @@
 
 ## 视频短信
 
-* [HTTP](video_http)
+* [HTTP](video_http.md)
 * [CMPP](video_cmpp.md)
 * [其他](video_other.md)
 
