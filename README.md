@@ -19,4 +19,4 @@
 
 * [联动优势融合消息平台使用手册1.6](static/联动优势融合消息平台使用手册1.6.pdf)
 * [HTTP-DEMO](https://www.umyun.com/api/api/manager/download/demo)
-* [CMPP测试工具](static/CMPP2.0测试工具.zip)
+* <a href="static/CMPP2.0测试工具.zip" download="CMPP2.0测试工具.zip">CMPP测试工具</a>
